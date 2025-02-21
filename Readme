@@ -1,1 +1,66 @@
+# Video Script Writer
+
+## Team Members
+1. Krithikragav  
+2. Sarumathi  
+3. Priyadharshini  
+4. Bramarambika P  
+
+## Team Lead
+Bramarambika P  
+
+## Project Title
+**Video Script Writer**
+
+## Description
+Video Script Writer is a generative AI application designed to create high-quality video scripts based on given topics. This tool leverages AI models to generate structured and coherent scripts, making it useful for content creators, marketers, educators, and filmmakers.
+
+## Features
+- AI-powered script generation based on user-provided topics.
+- Customizable script structure (e.g., introduction, body, conclusion).
+- Supports multiple genres and styles.
+- User-friendly interface for easy input and output.
+- Export options for various formats (e.g., text, PDF, or Word).
+
+## Technologies Used
+- Python (for AI model development)
+- OpenAI GPT or similar generative model
+- Flask/Django (for backend development)
+- React.js or HTML/CSS/JavaScript (for frontend development)
+- Database (SQLite, PostgreSQL, or MongoDB for storing generated scripts)
+
+## Installation
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/your-repo/video-script-writer.git
+   cd video-script-writer
+   ```
+2. Install dependencies:
+   ```sh
+   pip install -r requirements.txt
+   ```
+3. Run the application:
+   ```sh
+   python app.py
+   ```
+4. Open the application in your browser.
+
+## Usage
+1. Enter a topic or keywords related to your video content.
+2. Select the desired script structure and style.
+3. Click on "Generate Script."
+4. Edit, refine, and export the generated script as needed.
+
+## Contribution
+Contributions are welcome! Please follow these steps:
+1. Fork the repository.
+2. Create a new branch: `git checkout -b feature-name`
+3. Commit your changes: `git commit -m "Added new feature"`
+4. Push to the branch: `git push origin feature-name`
+5. Create a pull request.
+
+
+## Contact
+For any queries or collaboration opportunities, please reach out to the team members.
+
 
