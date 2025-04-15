@@ -1,4 +1,0 @@
-Flask
-Flask-WTF
-openai
-python-dotenv
